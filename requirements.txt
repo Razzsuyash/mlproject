@@ -4,4 +4,7 @@ scikit-learn
 tensorflow
 matplotlib
 catboost
+xgboost
+dill
+flask
 -e .
